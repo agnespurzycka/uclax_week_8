@@ -184,7 +184,9 @@ body .container-pricing {
   width: 1200px;
   background-color: #242526;
   margin-left: 0px;
-  margin-top: -80px; }
+  margin-top: -80px;
+  padding-bottom: 300px;
+  margin-bottom: -6000px; }
 
 body .pricing-title {
   font-size: 44px;
@@ -281,13 +283,16 @@ body .container-basic3 {
   margin-left: 650px;
   margin-top: -570px; }
 
-body .container-bg {
+body .row-bg {
   background-image: url(..//images/cliff.png);
   width: 1200px;
   margin-left: -192px;
   margin-top: 130px;
-  padding-bottom: -30px;
+  padding-bottom: 450px;
   background-repeat: no-repeat; }
+
+body .pic-text {
+  margin-left: -90px; }
 
 body input {
   padding-top: 10px;
@@ -300,8 +305,8 @@ body input {
   border-collapse: none;
   border-radius: 10px;
   opacity: 0.5;
-  margin-top: 200px;
-  margin-left: -200px; }
+  margin-top: -90px;
+  margin-left: 120px; }
 
 body .send {
   font-family: "Montserrat";
@@ -312,23 +317,24 @@ body .send {
   padding-left: 60px;
   padding-right: 60px;
   border-radius: 10px;
-  margin-left: -5px;
+  margin-left: 350px;
   border-style: none;
-  margin-bottom: -200px;
-  margin-left: -10px; }
+  margin-left: 540px;
+  margin-top: 20px; }
 
 body .container-text-now {
   font-size: 44px;
-  margin-top: -30px;
-  padding-left: 290px;
+  margin-top: 40px;
+  padding-left: 295px;
   margin-right: -400px; }
 
 body .footer-1 {
   width: 1200px;
   background-color: white;
   padding-top: 200px;
-  margin-top: 0px;
-  padding-bottom: 300px; }
+  margin-top: -400px;
+  padding-bottom: 300px;
+  margin-left: -192px; }
 
 body .footer {
   color: #242526;
