@@ -38,10 +38,12 @@ body {
 
 
 
-.header-container{
+.header-row{
   background-color: #0cb3f8;
-  width: 1200px;
-  lenght: 640px;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: 300px;
+
 
 }
 
@@ -53,6 +55,7 @@ padding-left: 60px;
 
 .col-6 {
   margin-top: -40px;
+
 
 }
 
@@ -75,7 +78,8 @@ padding-left: 60px;
   font-family: "Montserrat";
   font-size: 12px;
   font-weight: bold;
-  margin: 0 6px;
+  margin: 0 4px;
+  margin-left: -20px;
 }
 
 
@@ -151,28 +155,43 @@ padding-left: 60px;
 
   }
 
-  .container-content{
+  .row-content1{
     background-color: #f5f4f4;
-    width: 1200px;
-    length: 875px;
-    margin-left: 310px;
-    padding-bottom: 10px;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: 300px;
+    margin-left: 0px;
+    padding-bottom: 200px;
 
   }
 
-  .container-text{
+  .text1{
     color: #242526;
     font-size: 44px;
     margin-right: -400px;
     margin-top: 40px;
-    padding-left: 300px;
+    padding-left:300px;
     padding-top: 60px;
   }
 
   .iphone2{
     margin-top: 30px;
-    margin-right: 200px;
-    margin-left: 500px;
+    margin-right: 260px;
+    margin-left: 450px;
+  }
+
+  .text-cont-1{
+    margin-right: 560px;
+    margin-top: -120px;
+    margin-right:560px;
+
+  }
+
+  .text-cont-2{
+    margin-right: 560px;
+    margin-bottom: 200px;
+    margin-left: -20px;
+
   }
 
 h5{
@@ -180,6 +199,7 @@ h5{
   font-family: "Montserrat";
   color: #747474;
   font-weight: bold;
+  margin-top: 20px;
 
 
 
@@ -226,8 +246,8 @@ h2{
  .container-pricing{
    width: 1200px;
    background-color: #242526;
-   margin-left: 15px;
-   margin-top: 50px;
+   margin-left: 0px;
+   margin-top: -80px;
 
  }
 
